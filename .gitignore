@@ -1,5 +1,5 @@
 info.docx
 data/
 venv/
-V:/projects/K&I Wealth/src/opportunities_dataset.csv
-V:/projects/K&I Wealth/src/opportunities_dataset.json
+src/opportunities_dataset.csv
+src/opportunities_dataset.json
