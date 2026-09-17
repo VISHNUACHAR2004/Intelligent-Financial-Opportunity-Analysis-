@@ -1,0 +1,31 @@
+opportunity_id,name,provider,category,minimum_investment_inr,tenure_min_months,tenure_max_months,risk,expected_return_min_pct,expected_return_max_pct,return_type,source_document,extraction_confidence
+OPP001,Alpha Corporate Bond Basket,Northstar Capital,Fixed Income,100000.0,18,18,Moderate,9.2,9.2,stated,OPP001.txt,1.0
+OPP002,BlueRiver Infrastructure Note,BlueRiver Finance,Structured Credit,200000.0,24,24,Moderate,10.5,10.5,stated,OPP002.txt,1.0
+OPP003,Cedar Short Duration Fund,Cedar Asset Management,Mutual Fund,25000.0,12,24,Low to Moderate,7.1,7.1,stated,OPP003.txt,1.0
+OPP004,Delta Growth Equity Basket,Delta Wealth Partners,Equity,50000.0,36,36,High,14.0,18.0,range-based,OPP004.txt,1.0
+OPP005,Evergreen Tax Saver,Evergreen AMC,Mutual Fund,10000.0,36,36,Moderately High,8.4,8.4,stated,OPP005.txt,1.0
+OPP006,Falcon Renewable Credit,Falcon Alternative Investments,Private Credit,500000.0,30,30,Moderate-High,11.8,11.8,stated,OPP006.txt,1.0
+OPP007,Greenfield Treasury Plus,Greenfield Securities,Treasury,250000.0,9,9,Low,6.6,6.6,stated,OPP007.txt,1.0
+OPP008,Harbor Logistics Lease Fund,Harbor Capital,Alternative Investment,300000.0,24,30,Moderate,10.1,11.0,range-based,OPP008.txt,1.0
+OPP009,Indus Bluechip Portfolio,Indus Portfolio Managers,Equity,150000.0,48,48,High,12.5,12.5,stated,OPP009.txt,1.0
+OPP010,Jupiter Invoice Yield,Jupiter FinServe,Invoice Financing,75000.0,6,12,Moderate,9.8,12.2,range-based,OPP010.txt,1.0
+OPP011,Kaveri Balanced Allocation,Kaveri Asset Managers,Hybrid Fund,20000.0,24,24,Moderate,8.0,8.0,stated,OPP011.txt,1.0
+OPP012,Lotus Capital Preservation,Lotus Wealth,Debt,100000.0,12,12,Low,6.9,6.9,stated,OPP012.txt,1.0
+OPP013,Meridian SME Growth Note,Meridian Capital Advisors,Private Credit,200000.0,36,36,High,13.0,13.0,stated,OPP013.txt,1.0
+OPP014,Nova Gold Linked Strategy,Nova Investments,Commodity,125000.0,18,24,High,,,variable,OPP014.txt,1.0
+OPP015,Orion Municipal Bond Fund,Orion Mutual,Municipal Bonds,50000.0,24,24,Low to Moderate,7.6,7.6,stated,OPP015.txt,1.0
+OPP016,Pioneer Commercial Property Debt,Pioneer Alternative Credit,Real Estate Debt,1000000.0,48,48,Moderate-High,12.0,12.0,stated,OPP016.txt,1.0
+OPP017,Quantum Cash Plus,Quantum Asset Management,Liquid Fund,5000.0,3,6,Low,5.8,5.8,stated,OPP017.txt,1.0
+OPP018,Riverstone Digital Infrastructure,Riverstone Capital,Infrastructure,400000.0,36,36,Moderate-High,11.2,11.2,stated,OPP018.txt,1.0
+OPP019,Summit Dividend Equity,Summit PMS,Equity,300000.0,36,36,High,11.0,15.0,range-based,OPP019.txt,1.0
+OPP020,Terra Green Energy Debenture,Terra Finance,Corporate Debt,150000.0,24,24,Moderate,9.7,9.7,stated,OPP020.txt,1.0
+OPP021,Unity Micro Enterprise Pool,Unity Finance,Invoice Financing,100000.0,9,15,Moderate-High,10.8,10.8,stated,OPP021.txt,1.0
+OPP022,Vertex Long Horizon Equity,Vertex Capital,Equity,100000.0,60,60,High,15.0,15.0,stated,OPP022.txt,1.0
+OPP023,Willow Income Opportunity,Willow Asset Management,Debt,80000.0,18,18,Low to Moderate,7.9,7.9,stated,OPP023.txt,1.0
+OPP024,Xeno Venture Debt,Xeno Capital,Venture Debt,500000.0,36,36,High,14.0,14.0,stated,OPP024.txt,1.0
+OPP025,Yellowstone Asset Lease,Yellowstone Finance,Asset Leasing,200000.0,24,24,Moderate,9.9,9.9,stated,OPP025.txt,1.0
+OPP026,Zenith Government Securities,Zenith AMC,Government Bonds,50000.0,12,12,Low,6.8,6.8,stated,OPP026.txt,1.0
+OPP027,Aster High Yield Credit,Aster Credit Partners,Private Credit,100000.0,24,24,High,12.6,12.6,stated,OPP027.txt,1.0
+OPP028,Beacon Affordable Housing Debt,Beacon Finance,Real Estate Debt,250000.0,30,30,Moderate-High,10.9,10.9,stated,OPP028.txt,1.0
+OPP029,Cobalt Multi Asset Strategy,Cobalt Wealth,Multi Asset,100000.0,24,36,Moderate,9.0,9.0,stated,OPP029.txt,1.0
+OPP030,Dawn Short Term Credit,Dawn Financial Services,Corporate Debt,60000.0,9,9,Low to Moderate,7.3,7.3,stated,OPP030.txt,1.0
